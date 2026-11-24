@@ -1,0 +1,14 @@
+{
+  "rows": [
+    {"id": "spx", "group": "지수", "name": "S&P500", "value": 7237.17, "unit": "pt", "chg": null, "chg_pct": 4.73, "chg_bp": null, "date": "2026-11-23"},
+    {"id": "ixic", "group": "지수", "name": "나스닥", "value": 24089.56, "unit": "pt", "chg": null, "chg_pct": 6.51, "chg_bp": null, "date": "2026-11-23"},
+    {"id": "dji", "group": "지수", "name": "다우", "value": 49595.31, "unit": "pt", "chg": 1447.98, "chg_pct": 3.01, "chg_bp": null, "date": "2026-11-23"},
+    {"id": "sox", "group": "지수", "name": "필라델피아 반도체", "value": 9588.05, "unit": "pt", "chg": null, "chg_pct": 14.03, "chg_bp": null, "date": "2026-11-23"},
+    {"id": "ust2y", "group": "금리", "name": "2년", "value": 4.63, "unit": "%", "chg": null, "chg_pct": null, "chg_bp": null, "date": "2026-11-23"},
+    {"id": "ust10y", "group": "금리", "name": "10년", "value": 4.92, "unit": "%", "chg": null, "chg_pct": null, "chg_bp": 0, "date": "2026-11-23"},
+    {"id": "ust30y", "group": "금리", "name": "30년", "value": 5.29, "unit": "%", "chg": null, "chg_pct": null, "chg_bp": null, "date": "2026-11-23"},
+    {"id": "wti", "group": "유가", "name": "WTI", "value": 80.17, "unit": "$", "chg": -3.24, "chg_pct": -3.88, "chg_bp": null, "date": "2026-11-23"},
+    {"id": "brent", "group": "유가", "name": "브렌트", "value": 89.37, "unit": "$", "chg": -3.20, "chg_pct": -3.46, "chg_bp": null, "date": "2026-11-23"}
+  ],
+  "updated": "2026-11-24T08:15:00+09:00"
+}

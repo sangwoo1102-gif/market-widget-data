@@ -1,0 +1,15 @@
+{
+  "rows": [
+    {"id": "nvda", "name": "엔비디아", "group": "AI·반도체", "price": 165.05, "chg_pct": 31.48, "approx": false},
+    {"id": "dell", "name": "델", "group": "AI·반도체", "price": null, "chg_pct": 21, "approx": true},
+    {"id": "skhy", "name": "SK하이닉스 ADR", "group": "메모리", "price": 124.28, "chg_pct": 20.00, "approx": false},
+    {"id": "mu", "name": "마이크론", "group": "메모리", "price": 707.70, "chg_pct": 19.04, "approx": false},
+    {"id": "sndk", "name": "샌디스크", "group": "메모리", "price": 87.71, "chg_pct": 10.69, "approx": false},
+    {"id": "amd", "name": "AMD", "group": "AI·반도체", "price": null, "chg_pct": 6.9, "approx": true},
+    {"id": "googl", "name": "알파벳", "group": "빅테크", "price": null, "chg_pct": 6, "approx": true},
+    {"id": "meta", "name": "메타", "group": "빅테크", "price": null, "chg_pct": 6, "approx": true},
+    {"id": "avgo", "name": "브로드컴", "group": "AI·반도체", "price": null, "chg_pct": 3, "approx": true},
+    {"id": "msft", "name": "마이크로소프트", "group": "빅테크", "price": null, "chg_pct": 1, "approx": true}
+  ],
+  "updated": "2026-11-24T08:15:00+09:00"
+}

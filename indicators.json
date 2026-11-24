@@ -1,0 +1,8 @@
+{
+  "rows": [
+    {"id": "pmi_comp", "name": "S&P글로벌 종합 PMI(11월 속보치)", "actual": 54.6, "consensus": 55.6, "prior": 55.9},
+    {"id": "pmi_mfg", "name": "제조업 PMI(11월 속보치)", "actual": 54.5, "consensus": 54.5, "prior": 54.9},
+    {"id": "pmi_svc", "name": "서비스업 PMI(11월 속보치)", "actual": 54.7, "consensus": 55.5, "prior": 56.1}
+  ],
+  "updated": "2026-11-24T08:15:00+09:00"
+}

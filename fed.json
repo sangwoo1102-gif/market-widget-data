@@ -1,0 +1,9 @@
+{
+  "rows": [
+    {"id": "rate", "item": "현재 기준금리", "value": "3.75~4.00%", "prior": null},
+    {"id": "hike_prob", "item": "12월 FOMC 25bp 인상 확률(CME FedWatch)", "value": "95~98%", "prior": "약 88%"},
+    {"id": "next_fomc", "item": "다음 FOMC", "value": "12월 8~9일", "prior": null},
+    {"id": "williams_cpi", "item": "윌리엄스 뉴욕 연은 총재 올해 인플레이션 전망", "value": "3.5% 안팎", "prior": null}
+  ],
+  "updated": "2026-11-24T08:15:00+09:00"
+}
