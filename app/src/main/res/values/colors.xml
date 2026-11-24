@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_bg">#FFFFFF</color>
+    <color name="ink">#14161A</color>
+    <color name="mute">#5B6469</color>
+    <color name="teal">#0B5D63</color>
+    <color name="up">#C8303A</color>
+    <color name="down">#2459C4</color>
+    <color name="icon_bg">#0B5D63</color>
+</resources>

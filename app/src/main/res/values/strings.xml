@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">시황 위젯</string>
+    <string name="widget_name">시황 위젯</string>
+    <string name="widget_desc">美 지수·국채금리·유가·FOMC</string>
+    <string name="loading">불러오는 중…</string>
+    <string name="refresh">새로고침</string>
+</resources>
